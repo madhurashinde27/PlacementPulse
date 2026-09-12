@@ -1,0 +1,67 @@
+Student_ID,Skill_Name,Skill_Level
+ST001,Excel,Advanced
+ST001,SQL,Advanced
+ST001,Python,Intermediate
+ST001,Power BI,Intermediate
+ST002,Excel,Advanced
+ST002,SQL,Intermediate
+ST002,Python,Intermediate
+ST002,Power BI,Beginner
+ST003,SQL,Intermediate
+ST003,Java,Advanced
+ST003,Git & GitHub,Intermediate
+ST004,Excel,Advanced
+ST004,SQL,Advanced
+ST004,Python,Advanced
+ST004,Power BI,Advanced
+ST004,Machine Learning,Intermediate
+ST005,Excel,Beginner
+ST005,Java,Beginner
+ST006,Excel,Advanced
+ST006,SQL,Advanced
+ST006,Python,Intermediate
+ST006,Power BI,Intermediate
+ST007,Java,Intermediate
+ST007,SQL,Beginner
+ST007,Git & GitHub,Beginner
+ST008,Excel,Beginner
+ST008,HTML CSS,Beginner
+ST009,Excel,Advanced
+ST009,SQL,Advanced
+ST009,Python,Advanced
+ST009,Power BI,Advanced
+ST009,Data Visualization,Advanced
+ST010,C++,Intermediate
+ST010,Problem Solving,Beginner
+ST011,Excel,Advanced
+ST011,SQL,Advanced
+ST011,Python,Advanced
+ST011,Power BI,Intermediate
+ST012,Java,Intermediate
+ST012,SQL,Intermediate
+ST012,Git & GitHub,Intermediate
+ST013,Excel,Advanced
+ST013,SQL,Intermediate
+ST013,Python,Beginner
+ST013,Power BI,Beginner
+ST014,Java,Beginner
+ST015,Excel,Advanced
+ST015,SQL,Advanced
+ST015,Python,Advanced
+ST015,Power BI,Advanced
+ST015,Tableau,Intermediate
+ST016,Java,Intermediate
+ST016,SQL,Intermediate
+ST016,Git & GitHub,Beginner
+ST017,Excel,Advanced
+ST017,SQL,Advanced
+ST017,Python,Intermediate
+ST017,Power BI,Intermediate
+ST018,C++,Beginner
+ST018,Problem Solving,Beginner
+ST019,Excel,Advanced
+ST019,SQL,Advanced
+ST019,Python,Advanced
+ST019,Power BI,Intermediate
+ST020,Excel,Beginner
+ST020,Java,Beginner

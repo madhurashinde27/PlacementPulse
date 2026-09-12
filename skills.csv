@@ -1,0 +1,16 @@
+Skill_ID,Skill_Name,Category
+SK001,Excel,Data Analytics
+SK002,SQL,Data Analytics
+SK003,Python,Programming
+SK004,Power BI,Data Visualization
+SK005,Tableau,Data Visualization
+SK006,Java,Programming
+SK007,C++,Programming
+SK008,Machine Learning,AI & ML
+SK009,Communication,Soft Skills
+SK010,Problem Solving,Soft Skills
+SK011,Cloud Computing,Cloud
+SK012,Git & GitHub,Tools
+SK013,HTML CSS,Web Development
+SK014,JavaScript,Web Development
+SK015,Data Visualization,Data Analyticsss

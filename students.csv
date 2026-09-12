@@ -1,0 +1,21 @@
+Student_ID,Name,Branch,CGPA,Backlogs,Internship,Projects,Certifications,Communication_Score,Technical_Score,Placement_Status,Salary
+ST001,Aarav Sharma,CSE,8.7,0,Yes,3,4,8,9,Placed,650000
+ST002,Priya Patil,CSE,8.2,0,Yes,2,3,8,8,Placed,550000
+ST003,Rohan Kulkarni,IT,7.6,1,Yes,2,2,7,8,Placed,450000
+ST004,Ananya Deshmukh,CSE,9.1,0,Yes,4,5,9,9,Placed,750000
+ST005,Aditya Joshi,ENTC,7.2,2,No,1,1,6,6,Not Placed,0
+ST006,Sneha More,CSE,8.5,0,Yes,3,4,9,8,Placed,600000
+ST007,Omkar Shinde,IT,7.8,0,No,2,2,7,7,Placed,400000
+ST008,Isha Pawar,CSE,6.9,2,No,1,1,6,5,Not Placed,0
+ST009,Neha Jadhav,IT,8.9,0,Yes,4,4,9,9,Placed,700000
+ST010,Vedant Kale,MECH,7.4,1,No,1,2,6,6,Not Placed,0
+ST011,Riya Chavan,CSE,8.8,0,Yes,3,5,9,9,Placed,680000
+ST012,Akash Bhosale,IT,7.5,1,Yes,2,2,7,7,Placed,420000
+ST013,Sakshi Wagh,CSE,8.1,0,No,2,3,8,7,Placed,500000
+ST014,Harsh Desai,ENTC,6.8,3,No,1,0,5,5,Not Placed,0
+ST015,Pooja Gaikwad,CSE,9.0,0,Yes,4,5,9,9,Placed,720000
+ST016,Manish Yadav,IT,7.9,0,Yes,2,3,7,8,Placed,480000
+ST017,Komal Mane,CSE,8.4,0,Yes,3,3,8,8,Placed,570000
+ST018,Tejas Patil,MECH,7.1,2,No,1,1,6,6,Not Placed,0
+ST019,Vaishnavi Pawar,CSE,8.6,0,Yes,3,4,9,8,Placed,620000
+ST020,Sahil More,IT,6.7,2,No,1,1,5,5,Not Placed,0

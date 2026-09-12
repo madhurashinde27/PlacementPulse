@@ -1,0 +1,16 @@
+Job_ID,Company_ID,Job_Role,Required_Skills,Minimum_CGPA,Experience,Salary
+J001,C001,Data Analyst,Excel|SQL|Power BI,7.0,0,500000
+J002,C002,Data Analyst,Excel|SQL|Python|Power BI,7.0,0,550000
+J003,C003,Software Developer,Java|SQL|Git & GitHub,7.0,0,500000
+J004,C004,Data Analyst,Excel|SQL|Python|Tableau,7.5,0,600000
+J005,C005,Business Analyst,Excel|SQL|Power BI|Communication,7.0,0,550000
+J006,C006,Software Developer,Java|C++|SQL|Problem Solving,7.0,0,480000
+J007,C007,Data Analyst,Python|SQL|Power BI|Data Visualization,7.5,0,650000
+J008,C008,Software Developer,Java|JavaScript|HTML CSS|Git & GitHub,6.5,0,450000
+J009,C009,Data Analyst,Python|SQL|Machine Learning|Power BI,7.5,0,700000
+J010,C010,Business Analyst,Excel|SQL|Communication|Problem Solving,7.0,0,520000
+J011,C001,Software Engineer,Java|C++|SQL|Git & GitHub,7.0,0,520000
+J012,C002,Business Analyst,Excel|SQL|Power BI|Communication,7.0,0,560000
+J013,C003,Data Analyst,Python|SQL|Excel|Data Visualization,7.5,0,580000
+J014,C004,Software Engineer,Java|C++|Problem Solving|Git & GitHub,7.0,0,620000
+J015,C005,Data Analyst,Excel|SQL|Python|Power BI|Tableau,7.5,0,620000
